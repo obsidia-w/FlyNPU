@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pth
+
+# Simulation / Verilog
+*.vcd
+*.out
+*.log
+
+# OS
+.DS_Store
